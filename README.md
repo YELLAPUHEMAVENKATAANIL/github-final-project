@@ -1,5 +1,11 @@
-Project Title: "GitHub Final Project"
-Description: A brief explanation of the project's purpose.
-Features: What the project will do or demonstrate.
-How to Use: Instructions for users to clone and interact with the repository.
-License Information: Mention the repository uses Apache 2.0 License.
+# Simple Interest Calculator
+
+A calculator that calculates simple interest given principal, annual rate of interest, and time period in years.
+
+## Input:
+- p: principal amount
+- t: time period in years
+- r: annual rate of interest
+
+## Output:
+- simple interest = p * t * r
